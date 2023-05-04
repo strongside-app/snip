@@ -1,0 +1,3 @@
+cd "$(ls -t | head -n1)"
+
+You can use the following command to change directory into the last created folder:
